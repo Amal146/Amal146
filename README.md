@@ -1,5 +1,3 @@
-<!-- Header -->
-![GitHub Header](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAWYzhVjHF5YaTT7El1du6AXU4-lrvi5cw6pJ8P_baSNq9nGYY)
 
 # 👋 Hello, I'm Amal!  
 
