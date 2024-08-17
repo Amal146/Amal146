@@ -1,5 +1,5 @@
 <!-- Header -->
-![GitHub Header]([https://user-images.githubusercontent.com/yourimage.png](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAWYzhVjHF5YaTT7El1du6AXU4-lrvi5cw6pJ8P_baSNq9nGYY))
+![GitHub Header](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAWYzhVjHF5YaTT7El1du6AXU4-lrvi5cw6pJ8P_baSNq9nGYY)
 
 # 👋 Hello, I'm Amal!  
 
@@ -39,6 +39,7 @@
 ### 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amal-jawahdou-062883226)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:amaljw2002@gmail.com)
 
 
 ---
