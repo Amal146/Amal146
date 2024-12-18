@@ -10,7 +10,7 @@
 
 - 💻 Fullstack Developer with a passion for building innovative web apps.
 - 🌱 Currently learning **AI** and **Data Science**.
-- 🛠️ Working with **JavaScript**, **Python**, **Java**, **Angular**, and **Spring Boot**.
+- 🛠️ Working with **JavaScript**, **Python**, **Java**, **ReactJS**, **Angular**, and **Spring Boot**.
 - 🧠 I love exploring new tech stacks and contributing to **open-source**.
 
 ### ⚡ Tech Stack
