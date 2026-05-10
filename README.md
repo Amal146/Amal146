@@ -13,9 +13,9 @@
 
 I am a **Fullstack Developer** driven by the challenge of building scalable web applications. Currently, I'm bridging the gap between traditional development and the future by diving deep into **AI & Data Science**.
 
-* 🔭 I’m currently working on enhancing my **Spring Boot & React** ecosystem.
-* 🌱 I’m currently learning **Machine Learning and Advanced Python**.
-* 👯 I’m looking to collaborate on **Open Source** projects.
+* 🔭 I’m currently working on enhancing my **Deep Learning & Security** ecosystem.
+* 🌱 I’m currently learning **Machine Learning and Cyber Security**.
+* 💻 I’m looking to work on **Innovative** projects.
 * 💬 Ask me about **Java, JavaScript, or Web Architecture**.
 
 ---
@@ -32,10 +32,10 @@ I am a **Fullstack Developer** driven by the challenge of building scalable web 
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amal146&show_icons=true&theme=tokyonight&border_radius=10" alt="Amal's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal146&layout=compact&theme=tokyonight&border_radius=10" alt="Amal's Languages" width="300" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Amal146&show_icons=true&theme=tokyonight&hide_border=false" alt="Amal's GitHub Stats" width="45%">&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amal146&layout=compact&theme=tokyonight&hide_border=false" alt="Amal's Top Languages" width="40%">
+</p>
 
 <p align="center">
   <img width="890" src="https://github-readme-streak-stats.herokuapp.com/?user=Amal146&theme=dracula&hide_border=false" />
