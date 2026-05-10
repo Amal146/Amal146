@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Amal%20👋&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Amal%20🌸&fontSize=80&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -32,13 +32,10 @@ I am a **Fullstack Developer** driven by the challenge of building scalable web 
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img width="480" src="https://github-readme-stats.vercel.app/api?username=Amal146&show_icons=true&theme=dracula&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal146&layout=compact&theme=dracula&hide_border=false" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amal146&show_icons=true&theme=tokyonight&border_radius=10" alt="Amal's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amal146&layout=compact&theme=tokyonight&border_radius=10" alt="Amal's Languages" width="300" />
+</div>
 
 <p align="center">
   <img width="890" src="https://github-readme-streak-stats.herokuapp.com/?user=Amal146&theme=dracula&hide_border=false" />
