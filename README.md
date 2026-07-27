@@ -37,9 +37,6 @@ I am a **Fullstack Developer** driven by the challenge of building scalable web 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amal146&layout=compact&theme=tokyonight&hide_border=false" alt="Amal's Top Languages" width="40%">
 </p>
 
-<p align="center">
-  <img width="890" src="https://github-readme-streak-stats.herokuapp.com/?user=Amal146&theme=dracula&hide_border=false" />
-</p>
 
 ---
 
